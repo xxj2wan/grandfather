@@ -19,7 +19,6 @@
 Kotlin · Jetpack Compose · minSdk 26 (Android 8.0) · targetSdk 35
 
 ## APK 받기
-GitHub **Actions → Build APK** 의 최신 실행 결과에서 `grandfather-debug-apk` 아티팩트를 내려받아
-압축을 풀면 `app-debug.apk` 가 나옵니다. 폰에서 "출처를 알 수 없는 앱 설치"를 허용한 뒤 설치하세요.
+GitHub 저장소의 **Releases → `latest-debug`** 에서 `grandfather.apk` 를 내려받으세요.
 
 로컬 빌드: `./gradlew assembleDebug` (Android SDK 필요)
